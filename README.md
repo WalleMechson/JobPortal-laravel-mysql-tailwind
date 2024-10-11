@@ -152,7 +152,7 @@ Laravel-powered job portal with Sanctum for auth, Alpine.js for interactivity, a
             <td><img src="https://github.com/WalleMechson/JobPortal-laravel-mysql-tailwind/blob/main/public/forGithub/12.PNG" alt="13mobile" width="300"></td>
         </tr>
               <tr>
-            <td><img src="https://github.com/WalleMechson/JobPortal-laravel-mysql-tailwind/blob/main/public/forGithub/13.PNG" alt="10pic-light" style="width: 100%"></td>
+            <td><img src="https://github.com/WalleMechson/JobPortal-laravel-mysql-tailwind/blob/main/public/forGithub/13.PNG" alt="10pic-light"width="300"></td>
         </tr>
 </table>
 <br/>
