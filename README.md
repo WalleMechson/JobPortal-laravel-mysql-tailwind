@@ -1,7 +1,8 @@
 <div align="center">
   <br/>
 <div class="display: flex; align-items:center; justify-content:center;">
-              <img src="https://github.com/WalleMechson/JobPortal-laravel-mysql-tailwind/blob/main/public/forGithub/portal.png" style="height: 100px; width: 100px;" /> <h1 style="font-size: 70px;">JobHatch - Laravel-Powered Job Portal</h1>
+              <h1>🌌</h1>
+<h1>JobHatch - Laravel-Powered Job Portal</h1>
 </div>
   <br/>
   <p>
@@ -11,7 +12,7 @@ Laravel-powered job portal with Sanctum for auth, Alpine.js for interactivity, a
       <tr>
             <td><img src="https://github.com/WalleMechson/JobPortal-laravel-mysql-tailwind/blob/main/public/forGithub/1.PNG" alt="10pic-light" width="300"></td>
             <td><img src="https://github.com/WalleMechson/JobPortal-laravel-mysql-tailwind/blob/main/public/forGithub/9.PNG" alt="10pic" width="300"></td>
-            <td><img src="https://github.com/WalleMechson/JobPortal-laravel-mysql-tailwind/blob/main/public/forGithub/mobile.PNG" alt="13mobile" width="100"></td>
+            <td style="background: linear-gradient(to right, #ebf8ff, #e9d8fd, #fbcfe8)"><img src="https://github.com/WalleMechson/JobPortal-laravel-mysql-tailwind/blob/main/public/forGithub/mobile.PNG" alt="13mobile" width="100"></td>
         </tr>
 </table>
   <p>
